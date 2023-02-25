@@ -1,4 +1,6 @@
 ### Yeah boy
->I'm just an ordinary human, just like the others like to drink water.<br>
+>
+>Introduce me, I'm a human.
 >
 >![](https://komarev.com/ghpvc/?username=lazyfezy&color=blue)
+>
